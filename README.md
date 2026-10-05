@@ -27,7 +27,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [5a](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [5b](https://teorth.github.io/optimizationproblems/constants/5b.html) | Sidon set density inside (4,5) sets | 0.5294 | 0.5714 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6a.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
-| [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
+| [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | $<7.101862832357$ |
 | [7b](https://teorth.github.io/optimizationproblems/constants/7b.html) | Irrationality measure of $\Gamma(1/4)$ | 2 | $10^{143}$ |
 | [8](https://teorth.github.io/optimizationproblems/constants/8a.html) | Classical zero-free region constant | 0.755106 | 4.896 |
 | [9](https://teorth.github.io/optimizationproblems/constants/9a.html) | Shannon capacity of the 7-cycle | 3.25883262 | 3.3177 |
@@ -176,6 +176,8 @@ Bounds for which the level of available verification is currently at minimal lev
 - [47](https://teorth.github.io/optimizationproblems/constants/47a.html) **improved upper bound:** $C_{47} \leq 3.879$ by [Y. Lin](https://github.com/CoolRmal/centered-maximal-constant), 20 Sep 2026, formalized in Lean 4.
 - [45](https://teorth.github.io/optimizationproblems/constants/45a.html) **presentation:** the printed certificate is Griego's $0.490249407811155$, not Yoo's record $0.490180063290061$.
 - [10c](https://teorth.github.io/optimizationproblems/constants/10c.html) **upper bound correction:** $C_{10c}\le 4.1$ by [Pesenti–Vladu](https://arxiv.org/abs/2211.05509) v2 (14 Apr 2026), replacing the withdrawn $3\sqrt{3/2}$ constant in Theorem 4.5.
+
+- [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) **improved upper bound:** $C\_{7a}<7.101862832357$ by [Y. Bai](https://arxiv.org/abs/2609.11276v2), 10 Sep 2026 (v2: 11 Sep); Theorem 1.1 with $A\_1=A\_2=1857/2785$.
 
 ## Maintainers
 
